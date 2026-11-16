@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 670" width="640" height="670" font-family="IBM Plex Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-label="Architecture d'eDNA Hub">
+<title>Architecture d'eDNA Hub</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f4fd1"/></marker><marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5d6b82"/></marker></defs>
+<rect width="640" height="670" rx="16" fill="#ffffff"/>
+<rect x="20" y="20" width="600" height="112" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
+<text x="34" y="42" fill="#5d6b82" font-size="12.5" font-weight="600" letter-spacing=".72">VISITEURS ET MEMBRES</text>
+<rect x="200" y="50" width="240" height="62" rx="10" fill="#fff" stroke="#f5b800" stroke-width="2.4"/>
+<text x="212" y="75" fill="#14213d" font-size="15" font-weight="600">Navigateur</text>
+<text x="212" y="95" fill="#5d6b82" font-size="13">ordinateur ou téléphone · FR / EN</text>
+<rect x="20" y="196" width="232" height="112" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
+<text x="34" y="218" fill="#5d6b82" font-size="12.5" font-weight="600" letter-spacing=".72">VPS INGEVISION</text>
+<rect x="36" y="228" width="200" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.4"/>
+<text x="48" y="253" fill="#14213d" font-size="15" font-weight="600">Appli web</text>
+<text x="48" y="273" fill="#5d6b82" font-size="13">React · Three.js · nginx</text>
+<rect x="388" y="196" width="232" height="200" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
+<text x="402" y="218" fill="#5d6b82" font-size="12.5" font-weight="600" letter-spacing=".72">SOURCES PUBLIQUES</text>
+<rect x="404" y="228" width="200" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.4"/>
+<text x="416" y="253" fill="#14213d" font-size="15" font-weight="600">ORCID · Crossref</text>
+<text x="416" y="273" fill="#5d6b82" font-size="13">publications, par DOI</text>
+<rect x="404" y="316" width="200" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.4"/>
+<text x="416" y="341" fill="#14213d" font-size="15" font-weight="600">OpenAlex</text>
+<text x="416" y="361" fill="#5d6b82" font-size="13">articles par méthode</text>
+<rect x="20" y="446" width="600" height="204" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
+<text x="34" y="638" fill="#5d6b82" font-size="12.5" font-weight="600" letter-spacing=".72">SUPABASE (UE)</text>
+<rect x="36" y="466" width="270" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.4"/>
+<text x="48" y="491" fill="#14213d" font-size="15" font-weight="600">Base PostgreSQL</text>
+<text x="48" y="511" fill="#5d6b82" font-size="13">méthodes, profils, forum, droits</text>
+<rect x="334" y="466" width="270" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.4"/>
+<text x="346" y="491" fill="#14213d" font-size="15" font-weight="600">Comptes et fichiers</text>
+<text x="346" y="511" fill="#5d6b82" font-size="13">connexion, invitations, photos</text>
+<rect x="36" y="566" width="270" height="62" rx="10" fill="#fff" stroke="#c9d1dd" stroke-width="1.4"/>
+<text x="48" y="591" fill="#5d6b82" font-size="15" font-weight="600">Envoi des mails</text>
+<text x="48" y="611" fill="#5d6b82" font-size="13">en file, adresse à choisir</text>
+<path d="M214 112L214 170L180 170L180 228" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="82.0" y="162" width="92.0" height="19" rx="4" fill="#fff"/>
+<text x="128.0" y="176" text-anchor="middle" fill="#1f4fd1" font-size="13" font-weight="600">charge l'appli</text>
+<circle cx="70.0" cy="171.5" r="9.5" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="70.0" y="175.5" text-anchor="middle" fill="#1f4fd1" font-size="11.5" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">1</text>
+<path d="M256 112L256 466" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="180.0" y="397" width="152.0" height="19" rx="4" fill="#fff"/>
+<text x="256.0" y="411" text-anchor="middle" fill="#1f4fd1" font-size="13" font-weight="600">lit, écrit selon le rôle</text>
+<circle cx="168.0" cy="406.5" r="9.5" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="168.0" y="410.5" text-anchor="middle" fill="#1f4fd1" font-size="11.5" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">2</text>
+<path d="M408 112L408 170L580 170L580 228" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="495.0" y="162" width="50.0" height="19" rx="4" fill="#fff"/>
+<text x="520.0" y="176" text-anchor="middle" fill="#1f4fd1" font-size="13" font-weight="600">importe</text>
+<circle cx="483.0" cy="171.5" r="9.5" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="483.0" y="175.5" text-anchor="middle" fill="#1f4fd1" font-size="11.5" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">3</text>
+<path d="M360 112L360 347L404 347" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="329.0" y="143" width="74.0" height="19" rx="4" fill="#fff"/>
+<text x="366.0" y="157" text-anchor="middle" fill="#1f4fd1" font-size="13" font-weight="600">littérature</text>
+<circle cx="317.0" cy="152.5" r="9.5" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="317.0" y="156.5" text-anchor="middle" fill="#1f4fd1" font-size="11.5" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">4</text>
+<path d="M171 528L171 566" fill="none" stroke="#5d6b82" stroke-width="2.4" stroke-dasharray="6 4" marker-end="url(#g)"/>
+<rect x="181.0" y="538" width="98.0" height="19" rx="4" fill="#fff"/>
+<text x="230.0" y="552" text-anchor="middle" fill="#5d6b82" font-size="13" font-weight="600">mails à envoyer</text>
+<circle cx="169.0" cy="547.5" r="9.5" fill="#fff" stroke="#5d6b82" stroke-width="1.5"/><text x="169.0" y="551.5" text-anchor="middle" fill="#5d6b82" font-size="11.5" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">5</text>
+</svg>
