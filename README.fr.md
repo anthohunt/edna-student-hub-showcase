@@ -2,11 +2,11 @@
 
 # eDNA Student Hub
 
-**Une carte partagée des méthodes de l'ADN environnemental, et des chercheurs qui les utilisent.** Étudiants et labos voient qui utilise quoi, à quelle étape du protocole, et à qui poser la question.
+**Une carte partagée des méthodes de l'ADN environnemental, et des chercheurs qui les utilisent.**
 
-[![Le globe de l'accueil, la carte ouverte sur l'étape labo, une fiche de méthode, le filtre par chercheur, l'annuaire, puis le français et le thème clair (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)
+[![Le globe de l'accueil, la carte ouverte sur l'étape labo, une fiche de méthode, le filtre par chercheur, une question du forum, puis le français et le thème clair (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)
 
-*Vraie utilisation de la version de test, avec des données de démonstration : les personnes et les labos montrés sont fictifs. [Vidéo complète (1 min 28)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)*
+*Les personnes et les labos montrés sont fictifs. [Vidéo complète (1 min 28)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)*
 
 ## Utilisation
 
@@ -24,13 +24,12 @@
 ## Exploitation
 
 - **Version.** Version de test en ligne depuis le 10 novembre 2026, non indexée, en attente des retours du labo.
-- **Hébergement.** Fichiers statiques derrière nginx sur mon VPS ; Supabase (PostgreSQL, comptes, fichiers) dans l'UE.
+- **Hébergement.** Mon VPS pour l'appli, Supabase dans l'UE pour les données.
 - **Pas encore actif.** Les mails sortants restent en file tant que l'adresse d'expédition n'est pas choisie.
-- **Vérifications.** 89 tests automatiques ; les droits de chaque rôle vérifiés un par un (322 sur 322) ; ordinateur et téléphone.
-- **Technologies.** React 19, TypeScript, Vite, Three.js, Supabase.
+- **Vérifications.** 89 tests automatiques ; chaque action testée pour chaque rôle ; ordinateur et téléphone.
 
 ---
 
 **Anthony Hunt** · [ingevision.cloud](https://ingevision.cloud/?p=edna-student-hub) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196) · [GitHub](https://github.com/anthohunt)
 
-Le code et les données du labo sont privés.
+Le code est privé.

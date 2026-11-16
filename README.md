@@ -2,11 +2,11 @@
 
 # eDNA Student Hub
 
-**A shared map of environmental DNA methods, and of the researchers who use them.** Students and labs see who uses what, at which stage of the protocol, and whom to ask.
+**A shared map of environmental DNA methods, and of the researchers who use them.**
 
-[![The home globe, the map opened on the labwork stage, a method sheet, a researcher filter, the directory, then French and the light theme (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)
+[![The home globe, the map opened on the labwork stage, a method sheet, a researcher filter, a forum question, then French and the light theme (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)
 
-*Real use of the test version with demo data: the people and labs shown are fictional. [Full video (1:28)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)*
+*People and labs shown are fictional. [Full video (1:28)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)*
 
 ## Using it
 
@@ -19,20 +19,17 @@
 
 ## Architecture
 
-![eDNA Hub architecture: the browser loads the web app from the VPS, reads and writes the Supabase database according to the user's role, imports publications from ORCID and Crossref and counts articles on OpenAlex; outgoing emails wait in a queue](docs/architecture.svg)
-
-*Diagram labels are in French.*
+![eDNA Hub architecture: the browser loads the web app from the VPS, reads and writes the Supabase database according to the user's role, imports publications from ORCID and Crossref and counts articles on OpenAlex; outgoing emails wait in a queue](docs/architecture.en.svg)
 
 ## Deployment
 
 - **Version.** Test version online since 10 November 2026, not indexed, waiting for the lab's feedback.
-- **Hosting.** Static files behind nginx on my VPS; Supabase (PostgreSQL, accounts, files) in the EU.
+- **Hosting.** My VPS for the web app, Supabase in the EU for the data.
 - **Not active yet.** Outgoing emails stay in a queue until a sending address is chosen.
-- **Checks.** 89 automated tests; the rights of each role checked case by case (322 out of 322); computer and phone.
-- **Stack.** React 19, TypeScript, Vite, Three.js, Supabase.
+- **Checks.** 89 automated tests; every action tested for every role; computer and phone.
 
 ---
 
 **Anthony Hunt** · [ingevision.cloud](https://ingevision.cloud/?lang=en&p=edna-student-hub) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196) · [GitHub](https://github.com/anthohunt)
 
-The code and the lab's data are private.
+The code is private.
