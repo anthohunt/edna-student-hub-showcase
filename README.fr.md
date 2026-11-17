@@ -4,9 +4,15 @@
 
 **Une carte partagée des méthodes de l'ADN environnemental, et des chercheurs qui les utilisent.**
 
-[![Le globe de l'accueil, la carte ouverte sur l'étape labo, une fiche de méthode, le filtre par chercheur, une question du forum, puis le français et le thème clair (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)
+[![Le globe de l'accueil, la carte ouverte sur l'étape labo, une fiche de méthode, le filtre par chercheur, une question du forum, puis le français et le thème clair (version anglaise, cliquer pour la vidéo complète)](docs/demo.webp)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)
 
-*Les personnes et les labos montrés sont fictifs. [Vidéo complète (1 min 28)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)*
+<details><summary>Version française</summary>
+
+[![Le globe de l'accueil, la carte ouverte sur l'étape labo, une fiche de méthode, le filtre par chercheur, une question du forum, puis le français et le thème clair (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1uoB8rdebPYjlVtq-janLgtl_5qKE9xBT/view)
+
+</details>
+
+*Les personnes et les labos montrés sont fictifs. [Vidéo complète (1 min 28)](https://drive.google.com/file/d/1uoB8rdebPYjlVtq-janLgtl_5qKE9xBT/view)*
 
 ## Utilisation
 
