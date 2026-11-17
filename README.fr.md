@@ -21,6 +21,12 @@
 
 ![Architecture d'eDNA Hub : le navigateur charge l'appli depuis le VPS, lit et écrit la base Supabase selon le rôle de l'utilisateur, importe les publications d'ORCID et de Crossref et compte les articles sur OpenAlex ; les mails sortants attendent dans une file](docs/architecture.svg)
 
+<details><summary>Diagramme en français</summary>
+
+![Architecture d'eDNA Hub : le navigateur charge l'appli depuis le VPS, lit et écrit la base Supabase selon le rôle de l'utilisateur, importe les publications d'ORCID et de Crossref et compte les articles sur OpenAlex ; les mails sortants attendent dans une file](docs/architecture.fr.svg)
+
+</details>
+
 ## Exploitation
 
 - **Version.** Version de test en ligne depuis le 10 novembre 2026, non indexée, en attente des retours du labo.

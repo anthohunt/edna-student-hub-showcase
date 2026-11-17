@@ -19,7 +19,13 @@
 
 ## Architecture
 
-![eDNA Hub architecture: the browser loads the web app from the VPS, reads and writes the Supabase database according to the user's role, imports publications from ORCID and Crossref and counts articles on OpenAlex; outgoing emails wait in a queue](docs/architecture.en.svg)
+![eDNA Hub architecture: the browser loads the web app from the VPS, reads and writes the Supabase database according to the user's role, imports publications from ORCID and Crossref and counts articles on OpenAlex; outgoing emails wait in a queue](docs/architecture.svg)
+
+<details><summary>French version</summary>
+
+![Architecture d'eDNA Hub : le navigateur charge l'appli depuis le VPS, lit et écrit la base Supabase selon le rôle de l'utilisateur, importe les publications d'ORCID et de Crossref et compte les articles sur OpenAlex ; les mails sortants attendent dans une file](docs/architecture.fr.svg)
+
+</details>
 
 ## Deployment
 
