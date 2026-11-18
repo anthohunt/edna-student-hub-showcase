@@ -4,15 +4,15 @@
 
 **A shared map of environmental DNA methods, and of the researchers who use them.**
 
-[![The home globe, the map opened on the labwork stage, a method sheet, a researcher filter, a forum question, then French and the light theme (click for the full video)](docs/demo.webp)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)
+![The home globe, the map opened on the labwork stage, a method sheet, a researcher filter, a forum question, then French and the light theme](docs/demo.webp)
 
 <details><summary>French version</summary>
 
-[![Le globe de l'accueil, la carte ouverte sur l'étape labo, une fiche de méthode, le filtre par chercheur, une question du forum, puis le français et le thème clair (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1uoB8rdebPYjlVtq-janLgtl_5qKE9xBT/view)
+![Le globe de l'accueil, la carte ouverte sur l'étape labo, une fiche de méthode, le filtre par chercheur, une question du forum, puis le français et le thème clair](docs/demo.fr.webp)
 
 </details>
 
-*People and labs shown are fictional. [Full video (1:28)](https://drive.google.com/file/d/1SRzqDCk7krNjmo-yMZ6l9-5I63kjwFhW/view)*
+*People and labs shown are fictional.*
 
 ## Using it
 
